@@ -2,7 +2,7 @@
 
 A simple, robust Streamlit application to download YouTube videos and playlists in high quality (Video + Audio merged).
 
-![App Screenshot](https://raw.githubusercontent.com/placeholder-image.png)
+![App Screenshot](assets/app_screenshot.png)
 
 ## Features
 
