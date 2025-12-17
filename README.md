@@ -1,5 +1,9 @@
 # YouTube Playlist Downloader (Streamlit + yt-dlp)
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://yt-playlist.streamlit.app/)
+
+> **Live Demo:** [https://yt-playlist.streamlit.app/](https://yt-playlist.streamlit.app/)
+
 A simple, robust Streamlit application to download YouTube videos and playlists in high quality (Video + Audio merged).
 
 ![App Screenshot](assets/app_screenshot.png)
