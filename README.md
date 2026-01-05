@@ -26,7 +26,7 @@ A simple, robust Streamlit application to download YouTube videos and playlists 
 
 ## Installation
 
-1.  Clone the repository:
+1.  Clone the repository:-
     ```bash
     git clone <your-repo-url>
     cd yt_playlist_streamlit
